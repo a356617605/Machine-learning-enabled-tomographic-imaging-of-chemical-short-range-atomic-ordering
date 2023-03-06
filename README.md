@@ -6,12 +6,19 @@ ML-APT overview
 Yue Li 1*, Timoteo Colnaghi 2, Yilun Gong 1,7*, Huaide Zhang 3, Yuan Yu 3, Ye Wei 4, Bin Gan 5, Min Song 5, Andreas Marek 2, Markus Rampp 2, Siyuan Zhang 1, Zongrui Pei 6, Matthias Wuttig 3, Jörg Neugebauer 1, Zhangwei Wang 5*, Baptiste Gault 1,8*
 
 1 Max-Planck Institut für Eisenforschung GmbH, Max-Planck-Straße 1, Düsseldorf, 40237, Germany
+
 2 Max Planck Computing and Data Facility, Gießenbachstraße 2, Garching, 85748, Germany
+
 3 Institute of Physics (IA), RWTH Aachen University, Aachen, 52056, Germany
+
 4 Ecole Polytechnique Fédérale de Lausanne, School of engineering, Rte Cantonale, 1015 Lausanne, Switzerland
+
 5 State Key Laboratory of Powder Metallurgy, Central South University, Changsha, 410083, China
+
 6 New York University, New York, NY10012, United States
+
 7 Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, UK
+
 8 Department of Materials, Imperial College, South Kensington, London SW7 2AZ, UK
 
 *Corresponding authors, yue.li@mpie.de (Y. L.); y.gong@mpie.de (Y. G.); z.wang@csu.edu.cn (Z. W.); b.gault@mpie.de (B. G.)
