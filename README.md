@@ -1,6 +1,5 @@
 # Machine learning-enabled tomographic imaging of chemical short-range atomic ordering
-
-Being submited
+Link: https://arxiv.org/abs/2303.13433
 
 ![image](https://user-images.githubusercontent.com/44220131/223113923-7478eb86-691f-4146-9906-b2af4f4bb67b.png)
 
@@ -27,3 +26,5 @@ ML-APT overview
 *Corresponding authors, yue.li@mpie.de (Y. L.); y.gong@mpie.de (Y. G.); z.wang@csu.edu.cn (Z. W.); b.gault@mpie.de (B. G.)
 
 We developed a framework for deciphering the details of multi-type CSROs in H/MEAs, which combines ML, APT experiments/simulations, Monte-Carlo simulations, and electrical measurements. (A) First, a series of site-specific APT experiments are performed to collect the desired data, which are voxelized into millions of 1-nm cubes that are transformed into z-SDMs. (B) Then, a CSRO recognition model is obtained by utilising the simulated CSRO pattern bank to train a neural network. Its reliability is verified by a large-scale APT simulation. (C) Third, the preprocessed experimental z-SDMs are fed into the CSRO recognition model to obtain the 3D CSRO distribution. The details of multiple-CSROs are revealed, supported by atomistic simulations. (D) Finally, the composition/processing-CSRO-electrical resistivity relationships are built.
+
+The codes incude three modules. 1 Generating artificial APT data along the <002> or <111> containing either a randomly distributed FCC-matrix or CSRO. 2 Training 1D convolutional neural network (CNN) to obtain an FCC-matrix/CSRO binary classification model. 3 Applications of this model in CoCrNi to obtain the 3D CSRO distributions.  
