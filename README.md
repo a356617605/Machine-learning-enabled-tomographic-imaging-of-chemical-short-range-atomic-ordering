@@ -1,5 +1,5 @@
 # Machine learning-enabled tomographic imaging of chemical short-range atomic ordering
-Link: https://arxiv.org/abs/2303.13433
+Link: [https://arxiv.org/abs/2303.13433](https://doi.org/10.1002/adma.202407564)
 
 ![image](https://user-images.githubusercontent.com/44220131/223113923-7478eb86-691f-4146-9906-b2af4f4bb67b.png)
 
